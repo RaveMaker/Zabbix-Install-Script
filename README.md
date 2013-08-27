@@ -12,7 +12,7 @@ Basically, the script tries to do a few things and assumes some things:
 - Be somewhat flexible
 - The database server, web server, and zabbix server all run on one box
 
-Version 0.7.0 - Copyright (c) 2008-2012 [Brendon Baumgartner][Brendon Baumgartner]
+Version 0.7.0 (July 1, 2012) - Copyright (c) 2008-2012 [Brendon Baumgartner][Brendon Baumgartner]
 
 Updated by [RaveMaker][RaveMaker].
 [RaveMaker]: http://ravemaker.net
