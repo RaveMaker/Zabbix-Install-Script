@@ -11,3 +11,9 @@ Basically, the script tries to do a few things and assumes some things:
 - Be able to run the script over and over in the event that it errors
 - Be somewhat flexible
 - The database server, web server, and zabbix server all run on one box
+
+Version 0.7.0 - Copyright (c) 2008-2012 [Brendon Baumgartner][Brendon Baumgartner]
+
+Updated by [RaveMaker][RaveMaker].
+[RaveMaker]: http://ravemaker.net
+[Brendon Baumgartner]: http://blog.brendon.com
