@@ -15,5 +15,6 @@ Basically, the script tries to do a few things and assumes some things:
 Version 0.7.0 (July 1, 2012) - Copyright (c) 2008-2012 [Brendon Baumgartner][Brendon Baumgartner]
 
 Updated by [RaveMaker][RaveMaker].
+
 [RaveMaker]: http://ravemaker.net
 [Brendon Baumgartner]: http://blog.brendon.com
